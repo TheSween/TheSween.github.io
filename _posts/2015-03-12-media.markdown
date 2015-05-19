@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Health Literacy"
+date:   2015-03-04 11:48:34
+categories: jekyll update
+---
+
+I learned about health literacy in my 9th grade health class. We studied and discussed many different types of health issues. We got assigned to research a certain health issue. Me and my friend Jacob Barney had to research strep throat and inform our class about this health issue. People are more likely to get strep throat by hanging around a lot of people, kids in schools tend to get it more often.
